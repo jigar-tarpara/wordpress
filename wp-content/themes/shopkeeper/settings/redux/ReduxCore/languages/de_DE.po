@@ -1,0 +1,611 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Redux Framework\n"
+"Report-Msgid-Bugs-To: https://github."
+"com/ReduxFramework/ReduxFramework/issues\n"
+"POT-Creation-Date: 2015-04-02 04:45:17+00:00\n"
+"PO-Revision-Date: Tue Dec 15 2015 18:19:29 GMT+0530 (IST)\n"
+"Last-Translator: admin <lanetteam.divyesh@gmail.com>\n"
+"Language-Team: German (Germany) (http://www.transifex.com/projects/p/redux-"
+"framework/language/de_DE/)\n"
+"Language: German\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: de_DE"
+
+#, fuzzy
+msgid "Activate Demo Mode"
+msgstr "Aktiviere den Demo-Modus"
+
+msgid "Activate Development Plugins"
+msgstr "Entwickler-Plugins aktivieren"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Active Plugins"
+msgstr "Aktive Plugins"
+
+msgid "Add More"
+msgstr "Mehr Hinzufügen"
+
+msgid "Add/Edit Gallery"
+msgstr "Gallerie hinzufügen/bearbeiten"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "All Defaults Restored!"
+msgstr "Alle Voreinstellungen wieder hergestellt!"
+
+msgid "Allow tracking"
+msgstr "Tracking erlauben"
+
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr "Sind Sie sicher? Alle ihre Einstellungen gehen dadurch verloren."
+
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+"Sind Sie sicher? Alle ihre Einstellungen in diesem Bereich gehen dadurch "
+"verloren."
+
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr "Sind Sie sicher? Alle ihre Einstellungen gehen dadurch verloren."
+
+#, c-format
+msgid "Automatic action performed: \"%s\""
+msgstr "Automatisierte Action durchgeführt: \"%s\""
+
+msgid "Background Attachment"
+msgstr "Scroll-Verhalten des Hintergrunds"
+
+msgid "Background Clip"
+msgstr "Hintergrund-Clip"
+
+msgid "Background Origin"
+msgstr "Hintergrund-Quelle"
+
+msgid "Background Position"
+msgstr "Hintergrund-Position"
+
+msgid "Background Repeat"
+msgstr "Hintergrund-Wiederholung"
+
+msgid "Background Size"
+msgstr "Hintergrundgröße"
+
+msgid "Backup Font Family"
+msgstr "Backup-Schriftart"
+
+msgid "Border style"
+msgstr "Rahmenstil"
+
+msgid "Bottom"
+msgstr "Unten"
+
+msgid "Browser"
+msgstr "Browser"
+
+msgid "Changelog"
+msgstr "Changelog"
+
+msgid "Clear Gallery"
+msgstr "Gallerie leeren"
+
+msgid "Click here to activate the sample config file."
+msgstr "Klicken Sie hier um die Beispiel-Konfigurations-Datei zu aktivieren."
+
+msgid "Close"
+msgstr "Schliessen"
+
+msgid "Credits"
+msgstr "Mitwirkende"
+
+msgid "Deactivate Demo Mode"
+msgstr "Deaktiviere den Demo-Modus."
+
+msgid "Deactivate Development Plugins"
+msgstr "Entwickler-Plugins deaktivieren"
+
+msgid "Default"
+msgstr "Standardeinstellungen"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Developer"
+msgstr "Entwickler"
+
+#, c-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of Redux?"
+"  Visit our %1$s to learn more!"
+msgstr ""
+"Wusstest du schon, dass wir Erweiterungen anbieten, die die Funktionen von "
+"Redux stark verbessern? Besuche unsere %1$s um mehr zu erfahren."
+
+msgid "Disable"
+msgstr "Deaktivieren"
+
+msgid "Dismiss"
+msgstr "Verwerfen"
+
+msgid "Do not allow tracking"
+msgstr "Tracking nicht erlauben"
+
+msgid "Email address"
+msgstr "E-Mail-Adresse"
+
+msgid "Enable"
+msgstr "Aktivieren"
+
+msgid "Expand"
+msgstr "Ausdehnen"
+
+msgid "Export Options"
+msgstr "Export-Einstellungen"
+
+msgid "Extensions"
+msgstr "Erweiterungen"
+
+msgid "Font Color"
+msgstr "Schriftfarbe"
+
+msgid "Font Family"
+msgstr "Schriftart"
+
+msgid "Font Size"
+msgstr "Schriftgröße"
+
+msgid "Font Subsets"
+msgstr "Zeichensätze"
+
+msgid "Font Variant"
+msgstr "Schriftvariante"
+
+msgid "Font Weight &amp; Style"
+msgstr "Schriftstärke &amp; -stil"
+
+msgid "Font color"
+msgstr "Schriftfarbe"
+
+msgid "Font family"
+msgstr "Schriftart"
+
+msgid "Font script"
+msgstr "Schriftsystem"
+
+msgid "Font style"
+msgstr "Schriftstil"
+
+msgid "Font subsets"
+msgstr "Zeichensätze"
+
+msgid "From "
+msgstr "Von"
+
+msgid "Front Page"
+msgstr "Startseite"
+
+msgid "Getting Started"
+msgstr "Jetzt loslegen"
+
+msgid "Google Webfonts"
+msgstr "Google Webfonts"
+
+msgid "Height"
+msgstr "Höhe"
+
+msgid "Help improve Our Panel"
+msgstr "Hilf unserer Panel zu verbessern"
+
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+"Hier kannst du deine derzeitigen Eingestellten Optionen "
+"kopieren/herunterladen. Verwahre es sicher auf, da es zur Wiedehrerstellung "
+"verwendet werden kann falls etwas falsch abläuft, or du deine Einstellungen "
+"auf dieser oder irgendeiner anderen Seite wiederherstellen willst."
+
+msgid "Hints"
+msgstr "Hinweise"
+
+msgid "Hover"
+msgstr "Hover"
+
+#, c-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+"Wenn ja, bitte %1$s und unterstütze uns mit einer %2$s, damit wir Redux auch "
+"in Zukunft weiterentwickeln können."
+
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+"Wenn du über Redux auf dem Laufenden gehalten werden möchtest, bitte melde "
+"dich bei unserem Newsletter an"
+
+msgid "Import"
+msgstr "Importieren"
+
+msgid "Import / Export"
+msgstr "Import / Export"
+
+msgid "Import Options"
+msgstr "Import-Einstellungen"
+
+msgid "Import from URL"
+msgstr "Importieren von URL"
+
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+"Füge die URL von einer anderen Seiten Optionen hinzu und drücke Importieren "
+"um die Optionen von dieser Seite zu laden."
+
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+"Füge deine Backup/Sicherungsdatei Datei unten ein und drücke auf Exportieren "
+"damit die Einstellungen deiner Seite aus dem Backup/ der Sicherung "
+"wiederhergestellt werden."
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Letter Spacing"
+msgstr "Zeichenabstand"
+
+msgid "Like Redux?"
+msgstr "Gefällt dir Redux?"
+
+msgid "Line Height"
+msgstr "Zeilenhöhe"
+
+msgid "Must call in of after the \"plugins_loaded\" action."
+msgstr "Muss nach der Action \"plugins_loaded\" aufgerufen werden."
+
+msgid "Name"
+msgstr "Name"
+
+#, c-format
+msgid "New %s"
+msgstr "Neuer %s"
+
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgid "No items of this type were found."
+msgstr "Keine Elemente von diesem Typ wurden gefunden."
+
+msgid "No media selected"
+msgstr "Keine ausgewählt"
+
+msgid "Off"
+msgstr "Aus"
+
+msgid "On"
+msgstr "An"
+
+msgid "Options"
+msgstr "Optionen"
+
+msgid "Options Object"
+msgstr "Einstellungs-Objekt"
+
+#, c-format
+msgid "Options panel created using %1$s"
+msgstr "Erstellt mit Hilfe von %1$s"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Please Wait"
+msgstr "Bitte warten"
+
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+"Bitte helfen Sie uns, das Nutzererlebnis zu verbessern, indem Sie der "
+"Sammlung anonymer Nutzerstatistiken zustimmen. Damit erfahren wir, welche "
+"Einstellungen, Plugins und Themes wir auf Kompabilität testen müssen"
+
+msgid "Redux Extensions"
+msgstr "Redux-Erweiterungen"
+
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+msgid "Redux Framework Changelog"
+msgstr "Redux Framework Changelog"
+
+msgid "Redux Framework has an embedded demo."
+msgstr "Das Redux Framework verfügt über eine mitgelieferte Demo."
+
+msgid "Redux Generator"
+msgstr "Redux Generator"
+
+msgid "Regular"
+msgstr "Regulär"
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "Repo"
+msgstr "Repo"
+
+msgid "Reset All"
+msgstr "Alles zurücksetzen"
+
+msgid "Reset Section"
+msgstr "Zurücksetzen"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+msgid "Section Defaults Restored!"
+msgstr "Voreinstellungen dieses Abschnitts wieder hergestellt!"
+
+msgid "Select an item"
+msgstr "Wähle ein Element"
+
+msgid "Settings Imported!"
+msgstr "Einstellungen importiert!"
+
+msgid "Settings Saved!"
+msgstr "Einstellungen wurden gespeichert!"
+
+msgid "Settings have changed, you should save them!"
+msgstr "Einstellungen wurden geändert, du solltest sie abspeichern!"
+
+msgid "Show Object in Javascript Console Object"
+msgstr "Zeige Objekte im Javascript Konsolen-Objekt"
+
+msgid "Size"
+msgstr "Größe"
+
+msgid "Slide"
+msgstr "Gleiten"
+
+msgid "Standard Fonts"
+msgstr "Standard Schriftarten"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Style"
+msgstr "Style/Stil"
+
+msgid "Subscribe"
+msgstr "Anmelden"
+
+msgid "Subsets"
+msgstr "Zeichensätze"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "System Info"
+msgstr "Systeminformation"
+
+msgid "Text Align"
+msgstr "Textausrichtung"
+
+msgid "Text Decoration"
+msgstr "Textauszeichnung"
+
+msgid "Text Transform"
+msgstr "Texttransformation"
+
+msgid "The people that develop Redux Framework"
+msgstr "Die Menschen, die das Redux Framework entwickeln"
+
+#, c-format
+msgid "The unknown action has been replaced with \"%s\""
+msgstr "Die unbekannte Action wurde durch \"%s\" ersetzt"
+
+msgid "Theme"
+msgstr "Theme"
+
+msgid "This field cannot be empty. Please provide a value."
+msgstr "Dieses Feld kann nicht leer sein. Bitte gib einen Wert ein."
+
+msgid "This field must be a valid color value."
+msgstr "Dieses Feld muss einen gültigen Farbwert haben."
+
+msgid "This field must be a valid date."
+msgstr "Dieses Feld muss ein gültiges Datum sein."
+
+#, c-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr "Dieses Panel demonstriert die vielen Funktionen von Redux."
+
+msgid "Title"
+msgstr "Überschrift"
+
+msgid "To "
+msgstr "Zu"
+
+msgid "Top"
+msgstr "Oben"
+
+msgid "Transparent"
+msgstr "Transparent"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Units"
+msgstr "Einheiten"
+
+#, c-format
+msgid "Unknown action \"%1$s\" specified for %2$s"
+msgstr "Unbekannte Action \"%1$s\" für %2$s definiert"
+
+msgid "Upload"
+msgstr "Hochladen"
+
+msgid "User"
+msgstr "Benutzer"
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Version"
+msgstr "Version"
+
+#, c-format
+msgid "Version %s"
+msgstr "Version %s"
+
+#, c-format
+msgid "View %s"
+msgstr "%s ansehen"
+
+msgid "Visit plugin homepage"
+msgstr "Besuch die Plugin-Seite"
+
+msgid "Visited"
+msgstr "Besucht"
+
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+"WARNUNG! Dies überschreibt alle bestehenden Einstellungen, bitte gehe "
+"vorsichtig damit um!"
+
+#, c-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+"Du möchtest gleich loslegen? Verwende den %1$s. Er wird ein individuelles "
+"Boilerplate Theme oder einen eigenständigen Admin-Ordner mit allen Redux "
+"things (mit Hilfe von Unterstrichen und TGM) erstellen. Spar dir die "
+"Kopfschmerzen und probiere es aus."
+
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+"Warnung - Dieses Einstellungs-Panel wird ohne Javascript nicht einwandfrei "
+"funktionieren!"
+
+msgid "Welcome to Redux Framework"
+msgstr "Willkommen beim Redux Framework"
+
+#, c-format
+msgid "Welcome to Redux Framework %s"
+msgstr "Willkommen beim Redux Framework %s"
+
+msgid "Welcome to the Redux Demo Panel"
+msgstr "Willkommen beim Redux-Demo-Panel"
+
+msgid "What's New"
+msgstr "Was neu ist"
+
+msgid "Width"
+msgstr "Breite"
+
+msgid "Word Spacing"
+msgstr "Wortabstand"
+
+msgid "Working..."
+msgstr "Funktioniert..."
+
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du hast nicht die erforderlichen Rechte, um auf diese Seite zuzugreifen."
+
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr "Ihre Änderungen wurden noch nicht gespeichert. Möchten Sie jetzt speichern?"
+
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "Ihre Änderungen wurden noch nicht gespeichert. Möchten Sie jetzt speichern?"
+
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr "In diesen Feld kannst du kein HTML eingeben. Alle HTML Tags werden entfernt. "
+
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"In diesen Feld kannst du keine Sonderzeichen eingeben. Alle Sonderzeichen "
+"werden entfernt."
+
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+"Du musst eine kommaseparierte list mit numerischen Werte für diese Option "
+"bereitstellen."
+
+msgid "You must provide a numerical value for this option."
+msgstr "Du must einen nummerischen Wert für diese Option bereitstellen."
+
+msgid "You must provide a valid URL for this option."
+msgstr "Du musst eine gültige URL für diese Option bereitstellen."
+
+msgid "You must provide a valid email for this option."
+msgstr "Du musst eine gültige E-Mail für diese Option bereitstellen."
+
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+"Ihre aktuellen Einstellungen werden mit den Standardwerten ersetzt. Möchten "
+"Sie fortfahren?"
+
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+"Ihre aktuellen Einstellungen werden mit den Standardwerten ersetzt. Möchten "
+"Sie fortfahren?"
+
+msgid "donation"
+msgstr "Spende"
+
+msgid "error(s) were found!"
+msgstr "Fehler wurden gefunden!"
+
+msgid "extensions directory"
+msgstr "Ordner für die Erweiterungen"
+
+msgid "leave us a favorable review on WordPress.org"
+msgstr "hinterlasse ein Review auf WordPress.org"
+
+msgid "our documentation"
+msgstr "Dokumentation"
+
+msgid "warning(s) were found!"
+msgstr "Warnungen wurden gefunden!"

@@ -1,0 +1,498 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shopkeeper v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-19 12:49+0200\n"
+"PO-Revision-Date: Wed Dec 02 2015 17:43:36 GMT+0530 (IST)\n"
+"Last-Translator: admin <lanetteam.divyesh@gmail.com>\n"
+"Language-Team: Get Bowtied <hq@getbowtied.com>\n"
+"Language: English\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../woocommerce\n"
+"X-Poedit-SearchPathExcluded-1: ../settings\n"
+"X-Poedit-SearchPathExcluded-2: ../inc/tgm\n"
+"X-Poedit-SearchPathExcluded-3: ../inc/custom-menu\n"
+"X-Poedit-SearchPathExcluded-4: ../_foundation\n"
+"X-Loco-Target-Locale: en_US"
+
+#: ../404.php:14
+#, fuzzy
+msgid "Oops 404 again! That page can't be found."
+msgstr ""
+
+# @ shopkeeper
+#: ../404.php:18
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../archive.php:19
+msgid "Category Archives"
+msgstr ""
+
+#: ../archive.php:25
+msgid "Tag Archives"
+msgstr ""
+
+#: ../archive.php:33
+msgid "Author"
+msgstr ""
+
+#: ../archive.php:40
+msgid "Day Archives"
+msgstr ""
+
+#: ../archive.php:46
+msgid "Month Archives"
+msgstr ""
+
+#: ../archive.php:52
+msgid "Year Archives"
+msgstr ""
+
+# @ shopkeeper
+#: ../archive.php:57 ../sidebar.php:13
+msgid "Archives"
+msgstr ""
+
+# @ shopkeeper
+#: ../archive.php:114 ../archive.php:118 ../archive.php:121 ../index.php:123
+#: ../index.php:127 ../index.php:130
+msgid "Continue Reading"
+msgstr ""
+
+#: ../comments.php:21
+#, php-format
+msgid "One reply on “%2$s“"
+msgid_plural "%1$s replies on “%2$s“"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ shopkeeper
+#: ../comments.php:28 ../comments.php:48
+msgid "Comment navigation"
+msgstr ""
+
+# @ shopkeeper
+#: ../comments.php:29 ../comments.php:49
+msgid "&larr; Older Comments"
+msgstr ""
+
+# @ shopkeeper
+#: ../comments.php:30 ../comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+# @ shopkeeper
+#: ../comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+# @ shopkeeper
+#: ../comments.php:72
+msgid "Leave a Reply"
+msgstr ""
+
+# @ shopkeeper
+# @ woocommerce
+#: ../comments.php:76
+msgid "Name"
+msgstr ""
+
+# @ shopkeeper
+#: ../comments.php:78
+msgid "Email Address"
+msgstr ""
+
+# @ shopkeeper
+#: ../comments.php:80
+msgid "Website"
+msgstr ""
+
+# @ shopkeeper
+#: ../comments.php:86
+msgid "Message"
+msgstr ""
+
+#: ../content-none.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:15
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:17
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:20
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+# @ shopkeeper
+#: ../content-page.php:7 ../content.php:79
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+# @ shopkeeper
+#: ../content-page.php:8 ../content.php:80
+msgid "Pages:"
+msgstr ""
+
+# @ shopkeeper
+#: ../footer.php:252 ../header-topbar.php:109
+msgid "Logout"
+msgstr ""
+
+# @ shopkeeper
+#: ../functions.php:215
+msgid "Top Bar Navigation"
+msgstr ""
+
+# @ shopkeeper
+#: ../functions.php:216
+msgid "Main Navigation"
+msgstr ""
+
+# @ shopkeeper
+#: ../functions.php:217
+msgid "Footer Navigation"
+msgstr ""
+
+# @ shopkeeper
+#: ../functions.php:222
+msgid "Secondary Navigation (Off-Canvas)"
+msgstr ""
+
+#: ../functions.php:228
+msgid "Centered Header - Left Navigation"
+msgstr ""
+
+#: ../functions.php:229
+msgid "Centered Header - Right Navigation"
+msgstr ""
+
+# @ shopkeeper
+#: ../functions.php:443
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+# @ shopkeeper
+#: ../functions.php:482
+msgid "Sidebar"
+msgstr ""
+
+# @ shopkeeper
+#: ../functions.php:492
+msgid "Footer Widget Area"
+msgstr ""
+
+# @ shopkeeper
+#: ../functions.php:502
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../functions.php:703
+msgid "Share this product"
+msgstr ""
+
+# @ shopkeeper
+#: ../header-centered-2menus.php:171 ../header-centered-menu-under.php:148
+#: ../header-default.php:135
+msgid "menu"
+msgstr ""
+
+# @ shopkeeper
+#: ../image.php:27
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span>. Size: <i class=\"fa fa-picture-o\"></i> <a "
+"href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <i "
+"class=\"fa fa-folder-open\"></i> <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: ../image.php:42
+msgid "Previous"
+msgstr ""
+
+#: ../image.php:46
+msgid "Next"
+msgstr ""
+
+#: ../inc/custom-posts/portfolio.php:8 ../inc/custom-posts/portfolio.php:20
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/custom-posts/portfolio.php:9
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../inc/custom-posts/portfolio.php:10
+msgid "Add New"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:11
+msgid "Add New Portfolio item"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:12
+msgid "Edit Portfolio item"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:13
+msgid "New Portfolio item"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:14
+msgid "All Portfolio items"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:15
+msgid "View Portfolio item"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:16
+msgid "Search Portfolio item"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:17
+msgid "No Portfolio item found"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:18
+msgid "No Portfolio item found in Trash"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:52 ../inc/custom-posts/portfolio.php:65
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../inc/custom-posts/portfolio.php:53
+msgid "Portfolio Category"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:54
+msgid "Search Portfolio Categories"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:55
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:56
+msgid "All Portfolio Categories"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:57
+msgid "Edit Portfolio Category"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:58
+msgid "Update Portfolio Category"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:59
+msgid "Add New Portfolio Category"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:60
+msgid "New Portfolio Category Name"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:61
+msgid "Separate Portfolio Categories with commas"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:62
+msgid "Add or remove Portfolio Categories"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:63
+msgid "Choose from the most used Portfolio Categories"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/custom-posts/portfolio.php:64
+msgid "No Portfolio Category found."
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/shortcodes/google-map.php:13
+msgid "Get Directions"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/shortcodes/portfolio.php:71
+msgid "Show all"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/templates/post-meta.php:8 ../inc/templates/post-meta.php:36
+msgid "Sticky"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/templates/post-meta.php:12 ../inc/templates/post-meta.php:40
+msgid " by "
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/templates/post-meta.php:14 ../inc/templates/post-meta.php:42
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/templates/post-meta.php:25
+msgid " in "
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/templates/post-meta.php:68 ../inc/templates/post-meta.php:89
+#, php-format
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ../inc/templates/post-meta.php:72
+msgid " on "
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/templates/post-meta.php:74 ../inc/templates/post-meta.php:95
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/templates/template-tags.php:68
+msgid "Previous Reading"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/templates/template-tags.php:72
+msgid "Next Reading"
+msgstr ""
+
+#: ../inc/templates/template-tags.php:82
+msgid "Older posts"
+msgstr ""
+
+#: ../inc/templates/template-tags.php:88
+msgid "Newer posts"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/templates/template-tags.php:145
+msgid "Pingback:"
+msgstr ""
+
+# @ shopkeeper
+# @ woocommerce
+#: ../inc/templates/template-tags.php:145
+#: ../inc/templates/template-tags.php:185
+msgid "Edit"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/templates/template-tags.php:160
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ shopkeeper
+# @ woocommerce
+#: ../inc/templates/template-tags.php:163
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/templates/template-tags.php:168
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/widgets/social-media.php:14
+msgid "Shopkeeper Social Media Profiles"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/widgets/social-media.php:15
+msgid "A widget that displays Social Media Profiles"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/widgets/social-media.php:95
+msgid "Get Connected"
+msgstr ""
+
+# @ shopkeeper
+#: ../inc/widgets/social-media.php:100
+msgid "Title:"
+msgstr ""
+
+#: ../search.php:10
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+# @ shopkeeper
+#: ../searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+# @ shopkeeper
+#: ../searchform.php:3
+msgid "Search &hellip;"
+msgstr ""
+
+# @ shopkeeper
+#: ../searchform.php:4
+msgid "Search"
+msgstr ""
+
+# @ shopkeeper
+#: ../sidebar.php:20
+msgid "Meta"
+msgstr ""
